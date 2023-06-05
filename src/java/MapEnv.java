@@ -29,6 +29,8 @@ public class MapEnv extends Environment implements declareLiterals {
 
 	gameInfo game = new gameInfo();
 	
+	// prueba
+	
 	// destinies 
 	public destiniesBuffer destinies = new destiniesBuffer();
 	
