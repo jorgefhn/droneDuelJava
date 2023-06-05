@@ -1,0 +1,13 @@
+MAS agentsProject {
+
+	infrastructure: Centralised
+
+	environment: MapEnv
+
+	agents:
+		drone1;
+		drone2;
+
+	aslSourcePath:
+		"src/asl";
+}
